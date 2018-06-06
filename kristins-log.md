@@ -11,11 +11,9 @@
 ### Day 2: June 5, 2018
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: I worked through part of the CSS section in freecodecamp (took about 30 mins).
 
-**Thoughts**:
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Starting to remember bits and pieces from my first go at it. I feel it is definitely making more sense this time around. I am a little disappointed I only put in about 30 mins of coding today, but in light of life happening and wifi issues, I am glad I still decided to code, even if just for a little bit. Some time and effort is better than nothing at all!
 
 
 ### Day 3: June 6, 2018
