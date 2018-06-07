@@ -20,6 +20,6 @@
 
 **Today's Progress**: I did some digging around on w3schools HTML tutorials. I looked through a lot of the pages that gave more depth and background into what I have already been learning with freecodecamp.
 
-**Thoughts**: I liked getting another perspective and more background on some of the HTML lessons I have already done. I feel like a have a bit of a broader perspective as to how the language works. Also, I was really tired yesterday and didn't feel up to really digging into something new, so I chose to go for some light reading and research into the basics.
+**Thoughts**: I liked getting another perspective and more background on some of the HTML lessons I have already done. I feel like a have a bit of a broader perspective as to how the language works. Also, I was really tired and didn't feel up to really digging into something new, so I chose to go for some light reading and research into the basics.
 
 **Link(s) to work**: https://www.w3schools.com/Html/html_attributes.asp (link to HTML tutorial I was reading)
